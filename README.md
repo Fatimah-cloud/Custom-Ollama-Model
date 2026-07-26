@@ -32,15 +32,6 @@ The goal was to create a model with a consistent identity instead of the default
 
 ---
 
-## Parameters
 
-| Parameter | Value |
-|-----------|-------|
-| Temperature | 0.8 |
-| Top P | 0.9 |
-| Repeat Penalty | 1.15 |
-| Context Window | 4096 |
-
----
 
 
